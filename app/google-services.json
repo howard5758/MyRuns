@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "990602161205",
+    "firebase_url": "https://heroic-psyche-194121.firebaseio.com",
+    "project_id": "heroic-psyche-194121",
+    "storage_bucket": "heroic-psyche-194121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990602161205:android:ecf73ddd4fc535f2",
+        "android_client_info": {
+          "package_name": "com.example.ping_jungliu.myruns3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990602161205-ig6mg30isp3lkgpqbfarv61sda1tdc1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLIL0GKvd2PlRHXq3pWzVkvbw96azkHIg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
